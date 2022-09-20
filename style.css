@@ -1,3 +1,4 @@
+
 .minhalista{
     color:red;
     font-size:30;
@@ -19,6 +20,10 @@ background:black;
 
 #imagem{
     text-align: center;
+    border: 7px;
+    border-style:solid;
+    border-color:blue;
+    margin:50px;
 } 
     
 #link {
@@ -26,7 +31,7 @@ background:black;
 }
 
 p{
-    color: red;
+    color: purple;
     font-size: 30;
     text-align: right;
 }
