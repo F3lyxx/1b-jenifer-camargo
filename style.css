@@ -1,3 +1,17 @@
+.minhalista{
+    color:red;
+    font-size:30;
+}
+
+.listas{
+background:black;
+}
+
+.imagens{
+    text-align:center;
+    background:black;
+}
+
 .lista {
     color: red;
     font-size:30;
@@ -26,4 +40,3 @@ h2{
     text-align: left;
     font-size: 40;
 }
-
