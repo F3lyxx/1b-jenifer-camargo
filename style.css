@@ -19,6 +19,15 @@
     margin-right: -7px;
     margin-top: -8px;
 }
+.rodape{
+    text-align:center;
+    background:black;
+    border-top-style:solid;
+    margin-left: -8px;
+    margin-right: -8px;
+    margin-top: -8px;
+    padding:1px;
+}
 .lista {
     color: purple;
     font-size:30;
