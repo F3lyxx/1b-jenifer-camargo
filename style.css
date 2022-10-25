@@ -2,6 +2,9 @@
     color:purple;
     font-size:30;
 }
+#lateral{
+     float:right;
+}
 
 .lista{
     background:black;
