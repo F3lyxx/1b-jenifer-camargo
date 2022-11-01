@@ -2,6 +2,11 @@
     color:purple;
     font-size:30;
 }
+#menu {
+    text-align: center;
+    font-size: 30px;
+}
+
 #lateral{
      float:right;
 }
