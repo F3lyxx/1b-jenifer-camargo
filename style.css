@@ -75,3 +75,14 @@ h2{
     text-align: left;
     font-size: 40;
 }
+#alunos {
+    background:blue
+}
+#alunos{
+    font-size: 20px;
+    color: red;
+    border-style: solid;
+    margin-right: 85%;
+    margin-top: -2px;
+    margin-bottom: -2px;
+}
