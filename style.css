@@ -12,16 +12,16 @@
 }
 
 .lista{
-    background:black;
+    background: #D8BFD8;
 }
 
 .imagens{
     text-align:center;
-    background:black;
+    background:#D8BFD8;
 }
 #cabecalho {
     text-align: center;
-    background: black;
+    background: #D8BFD8;
     border-bottom-style: solid;
     margin-left: -7px;
     margin-right: -7px;
@@ -29,7 +29,7 @@
 }
 .rodape{
     text-align:center;
-    background:black;
+    background:#D8BFD8;
     border-top-style:solid;
     margin-left: -8px;
     margin-right: -8px;
@@ -45,7 +45,7 @@
     text-align: center;
     border: 5px;
     border-style:solid;
-    border-color:blue;
+    border-color:#7B68EE;
     border-top-left-radius:25px;
     border-top-right-radius:25px;
     border-bottom-left-radius:25px;
@@ -61,28 +61,27 @@
 }
 
 p{
-    color: red;
+    color: #4B0082;
     font-size: 30;
     
 }
 h1{
-    color: blue;
+    color: #8A2BE2;
     text-align: center;
     font-size: 50;
 }
 h2{
-    color: green;
+    color: #7B68EE;
     text-align: left;
     font-size: 40;
 }
 #alunos {
-    background:black;
+    background:#4B0082;
 }
 #alunos{
     font-size: 20px;
-    color: red;
+    color:#D8BFD8;
     border-style: solid;
     margin-right: 85%;
     margin-top: -2px;
     margin-bottom: -2px;
-}
